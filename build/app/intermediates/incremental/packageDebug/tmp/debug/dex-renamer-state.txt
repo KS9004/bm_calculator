@@ -1,0 +1,4 @@
+#Mon May 11 22:01:46 IST 2020
+base.0=C\:\\Users\\Saurabh\\AndroidStudioProjects\\bm_calculator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
